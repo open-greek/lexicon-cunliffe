@@ -1,0 +1,364 @@
+{
+ "format": "open-greek-lexica/0.3.0",
+ "id": "cunliffe-1924",
+ "title": "A Lexicon of the Homeric Dialect",
+ "short_title": "Cunliffe",
+ "author": "Richard John Cunliffe",
+ "edition": "First edition",
+ "publisher": "Blackie and Son",
+ "place": "London",
+ "year": 1924,
+ "scope": "Main lexicon, pages 1-430: entries, then prefixes and suffixes. The grammatical appendix (pages 431-452) is a separate dataset; the index of proper and place names is not included.",
+ "languages": {
+  "headwords": "grc",
+  "definitions": "en"
+ },
+ "license": {
+  "id": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "note": "The 1924 text is in the public domain. The Perseus TEI encoding carries no licence statement of its own, and neither does its repository; the Perseus Digital Library's own repositories of texts and lexica are released under CC BY-SA 4.0. This dataset, with its corrections and structure, is released under CC BY-SA 4.0."
+ },
+ "attribution": "Richard John Cunliffe, A Lexicon of the Homeric Dialect (London: Blackie and Son, 1924). Digital text from the Perseus Digital Library TEI encoding (Tufts University), edited by Gregory Crane, with many corrections by Helma Dik. Converted and corrected by the Open Greek project, CC BY-SA 4.0.",
+ "sources": [
+  {
+   "role": "text",
+   "name": "Perseus TEI encoding of Cunliffe",
+   "repository": "https://github.com/gregorycrane/Homerica",
+   "commit": "e1b05d67cc543d1c3aec3c23f62fa12e974e0a0c",
+   "path": "cunliffe.lexentries.unicode.xml",
+   "url": "https://raw.githubusercontent.com/gregorycrane/Homerica/e1b05d67cc543d1c3aec3c23f62fa12e974e0a0c/cunliffe.lexentries.unicode.xml",
+   "bytes": 14898460,
+   "sha256": "4c4dd04000ad73a77f5d33c4440337f3d1c3758a9c436ffed71ebd22d44d4d7a"
+  }
+ ],
+ "scans": [
+  {
+   "id": "mdp.39015005687283",
+   "provider": "archive.org",
+   "description": "University of Michigan copy, digitized by Google, 600 ppi",
+   "url": "https://archive.org/details/mdp.39015005687283",
+   "viewer_url": "https://archive.org/details/mdp.39015005687283/page/n{n}/mode/1up",
+   "image_url": "https://archive.org/download/mdp.39015005687283/mdp.39015005687283-1589906806_jp2.zip/mdp.39015005687283-1589906806_jp2%2Fmdp.39015005687283-1589906806_{leaf:04d}.jp2&ext=jpg",
+   "leaf_offset": 16,
+   "pages": {
+    "first": 1,
+    "last": 452
+   },
+   "rights": "Public Domain Mark 1.0",
+   "access": "public",
+   "credit": "University of Michigan copy, digitized by Google (Internet Archive, Public Domain Mark 1.0)",
+   "leaf_files": {
+    "description": "Leaves and their order in archive.org's viewer (scandata) and archive.org's page labels (page numbers), as archive.org serves them; stored gzip-compressed under scans/, the SHA-256 and size are of the uncompressed file. A leaf is the printed page plus leaf_offset; it must be a leaf the viewer shows and carry the page's label. The viewer link uses the leaf's position among the shown leaves (n).",
+    "scandata": {
+     "name": "mdp.39015005687283-1589906806_scandata.xml",
+     "path": "scans/mdp.39015005687283-1589906806_scandata.xml.gz",
+     "url": "https://archive.org/download/mdp.39015005687283/mdp.39015005687283-1589906806_scandata.xml",
+     "bytes": 156874,
+     "sha256": "80a7369400eb2a07082403c76cde2b89b485a0b0126e6a16178f5d13177cc717",
+     "md5": "98610c23a50f4db46fe44f6380eed5ed"
+    },
+    "page_numbers": {
+     "name": "mdp.39015005687283-1589906806_page_numbers.json",
+     "path": "scans/mdp.39015005687283-1589906806_page_numbers.json.gz",
+     "url": "https://archive.org/download/mdp.39015005687283/mdp.39015005687283-1589906806_page_numbers.json",
+     "bytes": 94450,
+     "sha256": "a333cc8afd540e7a13379ee3e21079fb3b27b873a8c731b44662cdf0aab58a9f",
+     "md5": "106312d8f4790fd66bac5dae8b93cd9d"
+    }
+   }
+  }
+ ],
+ "key_normalization": {
+  "version": 1,
+  "function": "lookup_key; see format.md",
+  "fold": 1,
+  "translit": 1,
+  "greek_run": 1,
+  "vectors": "vectors/"
+ },
+ "citation_target": {
+  "corpus": "https://github.com/open-greek/open-greek-corpus",
+  "release": "corpus-2026-11-21",
+  "commit": "40d2b9f8de01c800ac3a9eea7ff95163374d6f3b",
+  "files": {
+   "data/corpus/homerus-epic.ilias.jsonl": "74ee06791b042f615c9fd7e2969345fa86b772aabd5217ee9ffcdec8f151ca14",
+   "data/corpus/homerus-epic.odyssea.jsonl": "b6e4c55889716f335deecc03e9b103e36878da68b34c73131d89f55bd44a25db"
+  }
+ },
+ "counts": {
+  "citations": 92948,
+  "citations_linked": 92926,
+  "entries": 9851,
+  "flag:asterisk": 6,
+  "flag:dagger": 793,
+  "homographs": 244,
+  "kind:entry": 9809,
+  "kind:prefix": 38,
+  "kind:suffix": 4,
+  "quality:transcribed-checked": 9851,
+  "senses": 9680,
+  "xrefs": 11420,
+  "xrefs_unresolved": 2
+ },
+ "files": {
+  "entries": [
+   {
+    "file": "entries/0001.jsonl",
+    "count": 500,
+    "first_seq": 1,
+    "last_seq": 500,
+    "first_key": "ἆ",
+    "last_key": "ἁλμυρός",
+    "bytes": 1498842,
+    "sha256": "c42e633b15d2f33ab8efd6f58303c46ccae09aee308f49a1b1e63feac94ed8d2"
+   },
+   {
+    "file": "entries/0002.jsonl",
+    "count": 500,
+    "first_seq": 501,
+    "last_seq": 1000,
+    "first_key": "ἀλογέω",
+    "last_key": "ἀπάγχω",
+    "bytes": 1208033,
+    "sha256": "d1a468a82129d6425e2db1498e9eef208fb773368965b36dba50550cd4d480c4"
+   },
+   {
+    "file": "entries/0003.jsonl",
+    "count": 500,
+    "first_seq": 1001,
+    "last_seq": 1500,
+    "first_key": "ἀπάγω",
+    "last_key": "ἀτέω",
+    "bytes": 1146289,
+    "sha256": "14f0170c3af4c2191f0d8692421ecafa70f44c68db3f8f61eb370c5dfb026686"
+   },
+   {
+    "file": "entries/0004.jsonl",
+    "count": 500,
+    "first_seq": 1501,
+    "last_seq": 2000,
+    "first_key": "ἄτη",
+    "last_key": "δάϊς",
+    "bytes": 1557427,
+    "sha256": "f3eb6b340d397602783fe2375ccec9256e2a7b20051b769f6c49ce9658873f18"
+   },
+   {
+    "file": "entries/0005.jsonl",
+    "count": 500,
+    "first_seq": 2001,
+    "last_seq": 2500,
+    "first_key": "δαΐς",
+    "last_key": "δῶσι",
+    "bytes": 1296884,
+    "sha256": "aa9cfd77554b999eed98f25f2379cacbd06666ac0710cd2c2935c6bf18fd672c"
+   },
+   {
+    "file": "entries/0006.jsonl",
+    "count": 500,
+    "first_seq": 2501,
+    "last_seq": 3000,
+    "first_key": "δῷσι",
+    "last_key": "ἐλατήρ",
+    "bytes": 1401962,
+    "sha256": "4060a9bc824c74b5ba75699a2e184e066f9cfc9cf9188c2968d2759318fb1621"
+   },
+   {
+    "file": "entries/0007.jsonl",
+    "count": 500,
+    "first_seq": 3001,
+    "last_seq": 3500,
+    "first_key": "ἐλαύνω",
+    "last_key": "ἐπέδησε",
+    "bytes": 1071453,
+    "sha256": "536b4c52ada823e9b1900000288af989fcbdc516fb1bab3f9d6cde27fae2973e"
+   },
+   {
+    "file": "entries/0008.jsonl",
+    "count": 500,
+    "first_seq": 3501,
+    "last_seq": 4000,
+    "first_key": "ἐπέδησε",
+    "last_key": "ἐρύξω",
+    "bytes": 1137803,
+    "sha256": "d6831dbfe63862832d985d91b38be8ca97c85fcfbd50c8d631dc66e9a7896a77"
+   },
+   {
+    "file": "entries/0009.jsonl",
+    "count": 500,
+    "first_seq": 4001,
+    "last_seq": 4500,
+    "first_key": "ἐρύσαντο",
+    "last_key": "ἤειρε",
+    "bytes": 1245218,
+    "sha256": "96701259c70aed63cd32f73283bcb81b5de0f3668b4855e818fea171f444ec2c"
+   },
+   {
+    "file": "entries/0010.jsonl",
+    "count": 500,
+    "first_seq": 4501,
+    "last_seq": 5000,
+    "first_key": "ἠέλιος",
+    "last_key": "ἱμερτός",
+    "bytes": 1436279,
+    "sha256": "b770fde2fd11b95e472cbc7bcdcb1eaf63ea04e635c902644cd74583c12aaa4b"
+   },
+   {
+    "file": "entries/0011.jsonl",
+    "count": 500,
+    "first_seq": 5001,
+    "last_seq": 5500,
+    "first_key": "ἴμμεναι",
+    "last_key": "κελαρύζω",
+    "bytes": 1412081,
+    "sha256": "5f96003260ccc42b982c8cda2d3f49bb3046086fa85cdeca9e3a7ac6b9a56144"
+   },
+   {
+    "file": "entries/0012.jsonl",
+    "count": 500,
+    "first_seq": 5501,
+    "last_seq": 6000,
+    "first_key": "κέλευθος",
+    "last_key": "λελειμμένος",
+    "bytes": 1493919,
+    "sha256": "233665a64f13b58d33cc1346646f2966a59890f5e6fc5ce74c788694289df017"
+   },
+   {
+    "file": "entries/0013.jsonl",
+    "count": 500,
+    "first_seq": 6001,
+    "last_seq": 6500,
+    "first_key": "λέλειπται",
+    "last_key": "μνῆμα",
+    "bytes": 1491488,
+    "sha256": "7a30b964853ebea4f33077e0e07c25acadfccca85e44e44d95924b0fd10d5b6b"
+   },
+   {
+    "file": "entries/0014.jsonl",
+    "count": 500,
+    "first_seq": 6501,
+    "last_seq": 7000,
+    "first_key": "μνημοσύνη",
+    "last_key": "ὀνομακλήδην",
+    "bytes": 1414822,
+    "sha256": "6c73657b90ea5f114c33201dcbe2d9c9efe7e26b6cdb0376c985bb2efaa4b5b2"
+   },
+   {
+    "file": "entries/0015.jsonl",
+    "count": 500,
+    "first_seq": 7001,
+    "last_seq": 7500,
+    "first_key": "ὀνομάκλυτος",
+    "last_key": "πεῖραρ",
+    "bytes": 1502692,
+    "sha256": "fdc016b390daecba3bea1d279afa2e74c9daad9faa166b9d0dd766da6a516ab4"
+   },
+   {
+    "file": "entries/0016.jsonl",
+    "count": 500,
+    "first_seq": 7501,
+    "last_seq": 8000,
+    "first_key": "πειράω",
+    "last_key": "πόσις",
+    "bytes": 1238371,
+    "sha256": "57cfcbd6de84934b286408446a043ae0ca690c6165f0ce7f69dd97a648ed9dbe"
+   },
+   {
+    "file": "entries/0017.jsonl",
+    "count": 500,
+    "first_seq": 8001,
+    "last_seq": 8500,
+    "first_key": "ποσσῆμαρ",
+    "last_key": "σμικρός",
+    "bytes": 1297612,
+    "sha256": "9a3be14804d5caa3d63174aa1dda6051d6f2e32d8133dda64ebdba7f3ef9da3e"
+   },
+   {
+    "file": "entries/0018.jsonl",
+    "count": 500,
+    "first_seq": 8501,
+    "last_seq": 9000,
+    "first_key": "σμύχω",
+    "last_key": "τοσσοῦτος",
+    "bytes": 1562352,
+    "sha256": "cfcbd795d002aebbfba661bab2de041b56b6c2294648d39c4aca653ae8820817"
+   },
+   {
+    "file": "entries/0019.jsonl",
+    "count": 500,
+    "first_seq": 9001,
+    "last_seq": 9500,
+    "first_key": "τότε",
+    "last_key": "φράδμων",
+    "bytes": 1364585,
+    "sha256": "df872f88fed20bb65285de10dc48b474c7463767c1354d95b450d5086b019581"
+   },
+   {
+    "file": "entries/0020.jsonl",
+    "count": 351,
+    "first_seq": 9501,
+    "last_seq": 9851,
+    "first_key": "φράζω",
+    "last_key": "-σε",
+    "bytes": 1048552,
+    "sha256": "df65a295aa0c92b7cdeeb0571e14d1bc4063178a8babed457d9a6a848da4beb0"
+   }
+  ],
+  "keys": {
+   "file": "keys.json",
+   "bytes": 448644,
+   "sha256": "cf2ff274d27ceee58c7cf2fdc2d1871a39ef481412e5acca38600fe3198bd2b7"
+  },
+  "readme": {
+   "file": "README.md",
+   "bytes": 10375,
+   "sha256": "0de1d8024a8f0ac1731c888bfa7c65fd8a409dbd2596ffbbb9e9ae7b70eeafab"
+  },
+  "corrections": {
+   "file": "corrections.json",
+   "bytes": 1998814,
+   "sha256": "ca97ea79d58d92e39b435025faadade62271f1a310c865b60c40888ee4419cf7"
+  },
+  "pages": {
+   "file": "pages.json",
+   "rows": 430,
+   "bytes": 224528,
+   "sha256": "b6f924f52519ad6d509995e4275cbf179f435b7180ef4f43713236546c50d5a6"
+  },
+  "aliases": {
+   "file": "aliases.json",
+   "aliases": 0,
+   "bytes": 3,
+   "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+  },
+  "reverse": [
+   {
+    "work": "homerus-epic.ilias",
+    "file": "reverse/homerus-epic.ilias.json",
+    "loci": 15014,
+    "bytes": 1166034,
+    "sha256": "9712ad79bb6794cf7308040944b5ea7b317797deca702cbb4f0b58ee213f23a6"
+   },
+   {
+    "work": "homerus-epic.odyssea",
+    "file": "reverse/homerus-epic.odyssea.json",
+    "loci": 11545,
+    "bytes": 943660,
+    "sha256": "d7d1108d1941e9f2ed29e082d7152315694f9ab011a1609f79247e5e425a1019"
+   }
+  ]
+ },
+ "publication": {
+  "repository": "https://github.com/open-greek/lexicon-cunliffe",
+  "release": "cunliffe-2026-11-22",
+  "date": "2026-11-22",
+  "license_text": "LICENSE",
+  "build_manifest_sha256": "48bb3d9250b62ad4c3784b4056860d124f95ed721665b0e459ea4206cd226e5c",
+  "corrections": {
+   "build_sha256": "d5c7d60efeb55e8954b487f333df6d6a4a6b6ed26af87ead25f11ac28ab30aaa",
+   "withheld_fields": [
+    "evidence"
+   ]
+  },
+  "withheld_files": []
+ }
+}

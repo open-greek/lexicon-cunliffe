@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this dataset, cite the release you used by its tag, and credit the printed book and the digital sources as README.md says (Licence and attribution)."
+title: "Cunliffe, A Lexicon of the Homeric Dialect (1924): structured digital edition"
+abstract: "Richard John Cunliffe's Lexicon of the Homeric Dialect (1924), main lexicon, converted from the Perseus Digital Library TEI encoding into structured JSON entries, corrected against the scans of the printed book with reversible records, and linked to the Iliad and Odyssey of the Open Greek Corpus."
+type: "dataset"
+authors:
+  - name: "The Open Greek project"
+repository-code: "https://github.com/open-greek/lexicon-cunliffe"
+version: "cunliffe-2026-11-22"
+date-released: "2026-11-22"
+license: "CC-BY-SA-4.0"
+keywords:
+  - "ancient Greek"
+  - "Homer"
+  - "Homeric Greek"
+  - "lexicon"
+  - "dictionary"
+  - "Iliad"
+  - "Odyssey"
+  - "digital classics"
+  - "TEI"
+references:
+  - type: "book"
+    title: "A Lexicon of the Homeric Dialect"
+    authors:
+      - family-names: "Cunliffe"
+        given-names: "Richard John"
+    publisher:
+      name: "Blackie and Son"
+      city: "London"
+    year: 1924
+  - type: "data"
+    title: "A Lexicon of the Homeric Dialect, Perseus Digital Library TEI encoding (cunliffe.lexentries.unicode.xml)"
+    authors:
+      - name: "Perseus Digital Library, Tufts University"
+    editors:
+      - family-names: "Crane"
+        given-names: "Gregory"
+    repository-code: "https://github.com/gregorycrane/Homerica"
+    commit: "e1b05d67cc543d1c3aec3c23f62fa12e974e0a0c"
+    url: "http://www.perseus.tufts.edu/"
+    notes: "With many corrections by Helma Dik. The text of this dataset."
