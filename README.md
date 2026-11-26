@@ -4,7 +4,7 @@ Richard John Cunliffe, *A Lexicon of the Homeric Dialect* (London: Blackie
 and Son, 1924), the main lexicon, pages 1 to 430, as structured data: every
 entry as a JSON object with its text, senses, references to the Iliad and
 Odyssey, cross-references and the page it is printed on. This is release
-`cunliffe-2026-11-22`, with 9,851 entries: 9,809 words and
+`cunliffe-2026-11-25`, with 9,852 entries: 9,810 words and
 the 42 prefixes and suffixes printed after them.
 
 Not included: the grammatical appendix on pages 431 to 452, and Cunliffe's
@@ -79,7 +79,7 @@ recorded in `corrections.json`:
 ### Corrections
 
 The encoding was then compared with the print, and every difference found
-was read on the scan. The corrections are 2,156 reversible
+was read on the scan. The corrections are 2,214 reversible
 records in `corrections.json`: references with a wrong book letter or line
 number, references and text the encoding lost or added, misread or
 unmarked headwords (most of them long and short marks the encoding leaves
@@ -99,7 +99,7 @@ were read on the scan.
 Every entry has `quality` `transcribed-checked`: a transcription checked
 against the print. 92,926 of the 92,948
 references are linked to a passage of the Open Greek Corpus release
-`corpus-2026-11-21`, and `reverse/` lists, for every line of the two
+`corpus-2026-11-26`, and `reverse/` lists, for every line of the two
 poems, the entries that cite it.
 
 ## Known problems
@@ -154,7 +154,7 @@ evidence behind each record is not part of this repository.
 Cite the release you used, by its tag:
 
 > Richard John Cunliffe, A Lexicon of the Homeric Dialect (1924), Open
-> Greek digital edition, release `cunliffe-2026-11-22` (2026-11-22),
+> Greek digital edition, release `cunliffe-2026-11-25` (2026-11-25),
 > https://github.com/open-greek/lexicon-cunliffe. Digital text from the Perseus Digital Library TEI
 > encoding (Tufts University), edited by Gregory Crane, with many
 > corrections by Helma Dik.

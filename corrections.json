@@ -91212,6 +91212,2814 @@
      "text": "ὥλισσε"
     }
    }
+  },
+  {
+   "id": "cunliffe-1924-c2157",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "amphi-cunliffe-lex",
+    "element": "foreign",
+    "nth": 12,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "ἀ. ἅλα",
+    "tail": "(i.e. round the bay) "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "ἀ. ἅλα",
+    "tail": " (i.e. round the bay) "
+   },
+   "summary": "The print has a space between \"ἅλα\" and the bracket (\"ἅλα (i.e.\"); the encoding joins them.",
+   "scan": {
+    "page": 27,
+    "col": "b",
+    "line": 59
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "amphi-cunliffe-lex",
+     "element": "foreign",
+     "nth": 12,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "ἀ. ἅλα",
+     "tail": " (i.e. round the bay) "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "ἀ. ἅλα",
+     "tail": "(i.e. round the bay) "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2158",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "amphilyce-cunliffe-lex",
+    "element": "gloss",
+    "nth": 0,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "the",
+    "tail": "(morning) twilight "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "the",
+    "tail": " (morning) twilight "
+   },
+   "summary": "The print has a space between \"the\" and the bracket (\"the (morn\"); the encoding joins them.",
+   "scan": {
+    "page": 29,
+    "col": "a",
+    "line": 21
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "amphilyce-cunliffe-lex",
+     "element": "gloss",
+     "nth": 0,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "the",
+     "tail": " (morning) twilight "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "the",
+     "tail": "(morning) twilight "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2159",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "artios-cunliffe-lex",
+    "element": "gloss",
+    "nth": 2,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "his character suited him, was to his taste",
+    "tail": "(see "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "his character suited him, was to his taste",
+    "tail": " (see "
+   },
+   "summary": "The print has a space between \"taste\" and the bracket (\"taste (see\"); the encoding joins them.",
+   "scan": {
+    "page": 56,
+    "col": "b",
+    "line": 28
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "artios-cunliffe-lex",
+     "element": "gloss",
+     "nth": 2,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "his character suited him, was to his taste",
+     "tail": " (see "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "his character suited him, was to his taste",
+     "tail": "(see "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2160",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "autos-cunliffe-lex",
+    "element": "gloss",
+    "nth": 11,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "just as it is",
+    "tail": "(was), . . . and all: "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "just as it is",
+    "tail": " (was), . . . and all: "
+   },
+   "summary": "The print has a space between \"is\" and the bracket (\"is (was)\"); the encoding joins them.",
+   "scan": {
+    "page": 62,
+    "col": "b",
+    "line": 28
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "autos-cunliffe-lex",
+     "element": "gloss",
+     "nth": 11,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "just as it is",
+     "tail": " (was), . . . and all: "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "just as it is",
+     "tail": "(was), . . . and all: "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2161",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "baino-cunliffe-lex",
+    "element": "gloss",
+    "nth": 12,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "to mount a chariot",
+    "tail": "(and stand) beside another: "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "to mount a chariot",
+    "tail": " (and stand) beside another: "
+   },
+   "summary": "The print has a space between \"chariot\" and the bracket (\"chariot (and\"); the encoding joins them.",
+   "scan": {
+    "page": 67,
+    "col": "b",
+    "line": 19
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "baino-cunliffe-lex",
+     "element": "gloss",
+     "nth": 12,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "to mount a chariot",
+     "tail": " (and stand) beside another: "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "to mount a chariot",
+     "tail": "(and stand) beside another: "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2162",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "ballo-cunliffe-lex",
+    "element": "gloss",
+    "nth": 38,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "to strike up, being",
+    "tail": "(to sing) (cf. "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "to strike up, begin",
+    "tail": " (to sing) (cf. "
+   },
+   "summary": "The print has \"begin (to sing)\", with a space before the bracket; the encoding has \"being(to sing)\".",
+   "scan": {
+    "page": 68,
+    "col": "b",
+    "line": 56
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "ballo-cunliffe-lex",
+     "element": "gloss",
+     "nth": 38,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "to strike up, begin",
+     "tail": " (to sing) (cf. "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "to strike up, being",
+     "tail": "(to sing) (cf. "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2163",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "bie-cunliffe-lex",
+    "element": "gloss",
+    "nth": 4,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "periphrasis for a person",
+    "tail": "(the might of . . . = the mighty . . . ) (cf. "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "periphrasis for a person",
+    "tail": " (the might of . . . = the mighty . . . ) (cf. "
+   },
+   "summary": "The print has a space between \"person\" and the bracket (\"person (the\"); the encoding joins them.",
+   "scan": {
+    "page": 70,
+    "col": "b",
+    "line": 51
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "bie-cunliffe-lex",
+     "element": "gloss",
+     "nth": 4,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "periphrasis for a person",
+     "tail": " (the might of . . . = the mighty . . . ) (cf. "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "periphrasis for a person",
+     "tail": "(the might of . . . = the mighty . . . ) (cf. "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2164",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "gameo-cunliffe-lex",
+    "element": "foreign",
+    "nth": 1,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "Ἀδρήστοιο θυγατρῶν",
+    "tail": "(partitive genit., one of his daughters) "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "Ἀδρήστοιο θυγατρῶν",
+    "tail": " (partitive genit., one of his daughters) "
+   },
+   "summary": "The print has a space between \"θυγατρῶν\" and the bracket (\"θυγατρῶν (part\"); the encoding joins them.",
+   "scan": {
+    "page": 75,
+    "col": "a",
+    "line": 30
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "gameo-cunliffe-lex",
+     "element": "foreign",
+     "nth": 1,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "Ἀδρήστοιο θυγατρῶν",
+     "tail": " (partitive genit., one of his daughters) "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "Ἀδρήστοιο θυγατρῶν",
+     "tail": "(partitive genit., one of his daughters) "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2165",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "gony-cunliffe-lex",
+    "element": "gloss",
+    "nth": 5,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "the issue lies with the gods",
+    "tail": "(perh. referring to the custom of placing gifts on the lap of a statue (cf. "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "the issue lies with the gods",
+    "tail": " (perh. referring to the custom of placing gifts on the lap of a statue (cf. "
+   },
+   "summary": "The print has a space between \"gods\" and the bracket (\"gods (perh\"); the encoding joins them.",
+   "scan": {
+    "page": 80,
+    "col": "b",
+    "line": 26
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "gony-cunliffe-lex",
+     "element": "gloss",
+     "nth": 5,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "the issue lies with the gods",
+     "tail": " (perh. referring to the custom of placing gifts on the lap of a statue (cf. "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "the issue lies with the gods",
+     "tail": "(perh. referring to the custom of placing gifts on the lap of a statue (cf. "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2166",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "didomi-cunliffe-lex",
+    "element": "gloss",
+    "nth": 30,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "to restore",
+    "tail": "(cf. (13)): "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "to restore",
+    "tail": " (cf. (13)): "
+   },
+   "summary": "The print has a space between \"restore\" and the bracket (\"restore (cf.\"); the encoding joins them.",
+   "scan": {
+    "page": 94,
+    "col": "a",
+    "line": 56
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "didomi-cunliffe-lex",
+     "element": "gloss",
+     "nth": 30,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "to restore",
+     "tail": " (cf. (13)): "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "to restore",
+     "tail": "(cf. (13)): "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2167",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "didomi-cunliffe-lex",
+    "element": "gloss",
+    "nth": 32,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "to restore",
+    "tail": "(cf. (13)) "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "to restore",
+    "tail": " (cf. (13)) "
+   },
+   "summary": "The print has a space between \"restore\" and the bracket (\"restore (cf.\"); the encoding joins them.",
+   "scan": {
+    "page": 94,
+    "col": "a",
+    "line": 60
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "didomi-cunliffe-lex",
+     "element": "gloss",
+     "nth": 32,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "to restore",
+     "tail": " (cf. (13)) "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "to restore",
+     "tail": "(cf. (13)) "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2168",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "dios-cunliffe-lex",
+    "element": "gloss",
+    "nth": 2,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "bright, etc., among goddesses",
+    "tail": "(partitive genit.), brightest, etc., of goddesses (cf. "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "bright, etc., among goddesses",
+    "tail": " (partitive genit.), brightest, etc., of goddesses (cf. "
+   },
+   "summary": "The print has a space between \"goddesses\" and the bracket (\"goddesses (part\"); the encoding joins them.",
+   "scan": {
+    "page": 96,
+    "col": "b",
+    "line": 2
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "dios-cunliffe-lex",
+     "element": "gloss",
+     "nth": 2,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "bright, etc., among goddesses",
+     "tail": " (partitive genit.), brightest, etc., of goddesses (cf. "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "bright, etc., among goddesses",
+     "tail": "(partitive genit.), brightest, etc., of goddesses (cf. "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2169",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "dios-cunliffe-lex",
+    "element": "gloss",
+    "nth": 6,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "pearl of women",
+    "tail": "(cf. "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "pearl of women",
+    "tail": " (cf. "
+   },
+   "summary": "The print has a space between \"women\" and the bracket (\"women (cf.\"); the encoding joins them.",
+   "scan": {
+    "page": 96,
+    "col": "b",
+    "line": 14
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "dios-cunliffe-lex",
+     "element": "gloss",
+     "nth": 6,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "pearl of women",
+     "tail": " (cf. "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "pearl of women",
+     "tail": "(cf. "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2170",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "elauno-cunliffe-lex",
+    "element": "gloss",
+    "nth": 20,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "to dash",
+    "tail": "(one's teeth) together "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "to dash",
+    "tail": " (one's teeth) together "
+   },
+   "summary": "The print has a space between \"dash\" and the bracket (\"dash (one'\"); the encoding joins them.",
+   "scan": {
+    "page": 123,
+    "col": "a",
+    "line": 60
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "elauno-cunliffe-lex",
+     "element": "gloss",
+     "nth": 20,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "to dash",
+     "tail": " (one's teeth) together "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "to dash",
+     "tail": "(one's teeth) together "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2171",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "entos-cunliffe-lex",
+    "element": "gloss",
+    "nth": 1,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "to bound",
+    "tail": "(so that what is bounded is) within the boundary (what is bounded being regarded from the outside) "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "to bound",
+    "tail": " (so that what is bounded is) within the boundary (what is bounded being regarded from the outside) "
+   },
+   "summary": "The print has a space between \"bound\" and the bracket (\"bound (so t\"); the encoding joins them.",
+   "scan": {
+    "page": 133,
+    "col": "b",
+    "line": 41
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "entos-cunliffe-lex",
+     "element": "gloss",
+     "nth": 1,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "to bound",
+     "tail": " (so that what is bounded is) within the boundary (what is bounded being regarded from the outside) "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "to bound",
+     "tail": "(so that what is bounded is) within the boundary (what is bounded being regarded from the outside) "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2172",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "epemoibos-cunliffe-lex",
+    "element": "gloss",
+    "nth": 1,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "app., crossing each other",
+    "tail": "(cf. "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "app., crossing each other",
+    "tail": " (cf. "
+   },
+   "summary": "The print has a space between \"other\" and the bracket (\"other (cf.\"); the encoding joins them.",
+   "scan": {
+    "page": 142,
+    "col": "a",
+    "line": 50
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "epemoibos-cunliffe-lex",
+     "element": "gloss",
+     "nth": 1,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "app., crossing each other",
+     "tail": " (cf. "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "app., crossing each other",
+     "tail": "(cf. "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2173",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "ereido-cunliffe-lex",
+    "element": "gloss",
+    "nth": 2,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "to bring together",
+    "tail": "(the lips), compose (the mouth): "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "to bring together",
+    "tail": " (the lips), compose (the mouth): "
+   },
+   "summary": "The print has a space between \"together\" and the bracket (\"together (the\"); the encoding joins them.",
+   "scan": {
+    "page": 156,
+    "col": "a",
+    "line": 57
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "ereido-cunliffe-lex",
+     "element": "gloss",
+     "nth": 2,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "to bring together",
+     "tail": " (the lips), compose (the mouth): "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "to bring together",
+     "tail": "(the lips), compose (the mouth): "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2174",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "hercos-cunliffe-lex",
+    "element": "gloss",
+    "nth": 1,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "the",
+    "tail": "(double) row formed by the teeth (as we should say, "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "the",
+    "tail": " (double) row formed by the teeth (as we should say, "
+   },
+   "summary": "The print has a space between \"the\" and the bracket (\"the (doub\"); the encoding joins them.",
+   "scan": {
+    "page": 158,
+    "col": "a",
+    "line": 57
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "hercos-cunliffe-lex",
+     "element": "gloss",
+     "nth": 1,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "the",
+     "tail": " (double) row formed by the teeth (as we should say, "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "the",
+     "tail": "(double) row formed by the teeth (as we should say, "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2175",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "eryo-cunliffe-lex",
+    "element": "gloss",
+    "nth": 19,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "to hoist",
+    "tail": "(sails): "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "to hoist",
+    "tail": " (sails): "
+   },
+   "summary": "The print has a space between \"hoist\" and the bracket (\"hoist (sail\"); the encoding joins them.",
+   "scan": {
+    "page": 160,
+    "col": "a",
+    "line": 44
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "eryo-cunliffe-lex",
+     "element": "gloss",
+     "nth": 19,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "to hoist",
+     "tail": " (sails): "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "to hoist",
+     "tail": "(sails): "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2176",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "ico-cunliffe-lex",
+    "element": "gloss",
+    "nth": 1,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "to fly",
+    "tail": "(or seem to fly) "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "to fly",
+    "tail": " (or seem to fly) "
+   },
+   "summary": "The print has a space between \"fly\" and the bracket (\"fly (or s\"); the encoding joins them.",
+   "scan": {
+    "page": 199,
+    "col": "b",
+    "line": 5
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "ico-cunliffe-lex",
+     "element": "gloss",
+     "nth": 1,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "to fly",
+     "tail": " (or seem to fly) "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "to fly",
+     "tail": "(or seem to fly) "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2177",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "is-cunliffe-lex",
+    "element": "gloss",
+    "nth": 5,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "periphrasis for a person",
+    "tail": "(cf. "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "periphrasis for a person",
+    "tail": " (cf. "
+   },
+   "summary": "The print has a space between \"person\" and the bracket (\"person (cf.\"); the encoding joins them.",
+   "scan": {
+    "page": 202,
+    "col": "a",
+    "line": 20
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "is-cunliffe-lex",
+     "element": "gloss",
+     "nth": 5,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "periphrasis for a person",
+     "tail": " (cf. "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "periphrasis for a person",
+     "tail": "(cf. "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2178",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "iphthimos-cunliffe-lex",
+    "element": "gloss",
+    "nth": 0,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "and",
+    "tail": "(in sense (2)) "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "and",
+    "tail": " (in sense (2)) "
+   },
+   "summary": "The print has a space between \"and\" and the bracket (\"and (in s\"); the encoding joins them.",
+   "scan": {
+    "page": 205,
+    "col": "a",
+    "line": 17
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "iphthimos-cunliffe-lex",
+     "element": "gloss",
+     "nth": 0,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "and",
+     "tail": " (in sense (2)) "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "and",
+     "tail": "(in sense (2)) "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2179",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "calypto-cunliffe-lex",
+    "element": "gloss",
+    "nth": 5,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "to uncover oneself",
+    "tail": "(cf. "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "to uncover oneself",
+    "tail": " (cf. "
+   },
+   "summary": "The print has a space between \"oneself\" and the bracket (\"oneself (cf.\"); the encoding joins them.",
+   "scan": {
+    "page": 210,
+    "col": "b",
+    "line": 41
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "calypto-cunliffe-lex",
+     "element": "gloss",
+     "nth": 5,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "to uncover oneself",
+     "tail": " (cf. "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "to uncover oneself",
+     "tail": "(cf. "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2180",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "cednos-cunliffe-lex",
+    "element": "gloss",
+    "nth": 3,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "having her heart bent to loving care, full of affectionate solicitude, devoted",
+    "tail": "(see "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "having her heart bent to loving care, full of affectionate solicitude, devoted",
+    "tail": " (see "
+   },
+   "summary": "The print has a space between \"devoted\" and the bracket (\"devoted (see\"); the encoding joins them.",
+   "scan": {
+    "page": 221,
+    "col": "a",
+    "line": 43
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "cednos-cunliffe-lex",
+     "element": "gloss",
+     "nth": 3,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "having her heart bent to loving care, full of affectionate solicitude, devoted",
+     "tail": " (see "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "having her heart bent to loving care, full of affectionate solicitude, devoted",
+     "tail": "(see "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2181",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "centor-cunliffe-lex",
+    "element": "gloss",
+    "nth": 1,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "a",
+    "tail": "(skilful) driver "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "a",
+    "tail": " (skilful) driver "
+   },
+   "summary": "The print has a space between \"a\" and the bracket (\"a (skil\"); the encoding joins them.",
+   "scan": {
+    "page": 224,
+    "col": "a",
+    "line": 42
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "centor-cunliffe-lex",
+     "element": "gloss",
+     "nth": 1,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "a",
+     "tail": " (skilful) driver "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "a",
+     "tail": "(skilful) driver "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2182",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "cer2-cunliffe-lex",
+    "element": "foreign",
+    "nth": 1,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "τό",
+    "tail": "[app. for "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "τό",
+    "tail": " [app. for "
+   },
+   "summary": "The print has a space between \"τό\" and the bracket (\"τό [app.\"); the encoding joins them.",
+   "scan": {
+    "page": 226,
+    "col": "b",
+    "line": 10
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "cer2-cunliffe-lex",
+     "element": "foreign",
+     "nth": 1,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "τό",
+     "tail": " [app. for "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "τό",
+     "tail": "[app. for "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2183",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "man-cunliffe-lex",
+    "element": "foreign",
+    "nth": 1,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "ἔσται μὰν ὅτʼ ἄν",
+    "tail": "...(the time will yet come when...) "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "ἔσται μὰν ὅτʼ ἄν",
+    "tail": "... (the time will yet come when...) "
+   },
+   "summary": "The print has a space between \"...\" and the bracket (\"... (the\"); the encoding joins them.",
+   "scan": {
+    "page": 255,
+    "col": "a",
+    "line": 38
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "man-cunliffe-lex",
+     "element": "foreign",
+     "nth": 1,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "ἔσται μὰν ὅτʼ ἄν",
+     "tail": "... (the time will yet come when...) "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "ἔσται μὰν ὅτʼ ἄν",
+     "tail": "...(the time will yet come when...) "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2184",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "menos-cunliffe-lex",
+    "element": "gloss",
+    "nth": 7,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "periphrasis for a person",
+    "tail": "(cf. "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "periphrasis for a person",
+    "tail": " (cf. "
+   },
+   "summary": "The print has a space between \"person\" and the bracket (\"person (cf.\"); the encoding joins them.",
+   "scan": {
+    "page": 263,
+    "col": "b",
+    "line": 2
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "menos-cunliffe-lex",
+     "element": "gloss",
+     "nth": 7,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "periphrasis for a person",
+     "tail": " (cf. "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "periphrasis for a person",
+     "tail": "(cf. "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2185",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "ouros2-cunliffe-lex",
+    "element": "foreign",
+    "nth": 2,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "ὁ",
+    "tail": "[cf. "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "ὁ",
+    "tail": " [cf. "
+   },
+   "summary": "The print has a space between \"ὁ\" and the bracket (\"ὁ [cf.\"); the encoding joins them.",
+   "scan": {
+    "page": 306,
+    "col": "a",
+    "line": 43
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "ouros2-cunliffe-lex",
+     "element": "foreign",
+     "nth": 2,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "ὁ",
+     "tail": " [cf. "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "ὁ",
+     "tail": "[cf. "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2186",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "paieon-cunliffe-lex",
+    "element": "gloss",
+    "nth": 1,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "the Healer,",
+    "tail": " who, however, appears to be represented as a separate person(cf. "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "the Healer,",
+    "tail": " who, however, appears to be represented as a separate person (cf. "
+   },
+   "summary": "The print has a space between \"person\" and the bracket (\"person (cf.\"); the encoding joins them.",
+   "scan": {
+    "page": 308,
+    "col": "b",
+    "line": 59
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "paieon-cunliffe-lex",
+     "element": "gloss",
+     "nth": 1,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "the Healer,",
+     "tail": " who, however, appears to be represented as a separate person (cf. "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "the Healer,",
+     "tail": " who, however, appears to be represented as a separate person(cf. "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2187",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "paros-cunliffe-lex",
+    "element": "gloss",
+    "nth": 2,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "before",
+    "tail": "(not now (then)) (whatever may be (have been) the case now (then)) : "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "before",
+    "tail": " (not now (then)) (whatever may be (have been) the case now (then)) : "
+   },
+   "summary": "The print has a space between \"before\" and the bracket (\"before (not\"); the encoding joins them.",
+   "scan": {
+    "page": 316,
+    "col": "a",
+    "line": 43
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "paros-cunliffe-lex",
+     "element": "gloss",
+     "nth": 2,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "before",
+     "tail": " (not now (then)) (whatever may be (have been) the case now (then)) : "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "before",
+     "tail": "(not now (then)) (whatever may be (have been) the case now (then)) : "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2188",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "pollos-cunliffe-lex",
+    "element": "gloss",
+    "nth": 4,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "the greater part of an indicated number, most of them",
+    "tail": "(cf. "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "the greater part of an indicated number, most of them",
+    "tail": " (cf. "
+   },
+   "summary": "The print has a space between \"them\" and the bracket (\"them (cf.\"); the encoding joins them.",
+   "scan": {
+    "page": 336,
+    "col": "a",
+    "line": 29
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "pollos-cunliffe-lex",
+     "element": "gloss",
+     "nth": 4,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "the greater part of an indicated number, most of them",
+     "tail": " (cf. "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "the greater part of an indicated number, most of them",
+     "tail": "(cf. "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2189",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "tamno-cunliffe-lex",
+    "element": "gloss",
+    "nth": 13,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "to surround and cut off",
+    "tail": "(cattle, etc.) in order to make booty of them (cf. "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "to surround and cut off",
+    "tail": " (cattle, etc.) in order to make booty of them (cf. "
+   },
+   "summary": "The print has a space between \"off\" and the bracket (\"off (catt\"); the encoding joins them.",
+   "scan": {
+    "page": 372,
+    "col": "b",
+    "line": 51
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "tamno-cunliffe-lex",
+     "element": "gloss",
+     "nth": 13,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "to surround and cut off",
+     "tail": " (cattle, etc.) in order to make booty of them (cf. "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "to surround and cut off",
+     "tail": "(cattle, etc.) in order to make booty of them (cf. "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2190",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "tello-cunliffe-lex",
+    "element": "gloss",
+    "nth": 1,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "to lay",
+    "tail": "(an injunction or charge upon a person), give (an order to him) : "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "to lay",
+    "tail": " (an injunction or charge upon a person), give (an order to him) : "
+   },
+   "summary": "The print has a space between \"lay\" and the bracket (\"lay (an i\"); the encoding joins them.",
+   "scan": {
+    "page": 377,
+    "col": "b",
+    "line": 17
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "tello-cunliffe-lex",
+     "element": "gloss",
+     "nth": 1,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "to lay",
+     "tail": " (an injunction or charge upon a person), give (an order to him) : "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "to lay",
+     "tail": "(an injunction or charge upon a person), give (an order to him) : "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2191",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "phyctos-cunliffe-lex",
+    "element": "gloss",
+    "nth": 1,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "means or opportunity of fleeing or escape",
+    "tail": "(cf. "
+   },
+   "correction": {
+    "attributes": {},
+    "text": "means or opportunity of fleeing or escape",
+    "tail": " (cf. "
+   },
+   "summary": "The print has a space between \"escape\" and the bracket (\"escape (cf.\"); the encoding joins them.",
+   "scan": {
+    "page": 413,
+    "col": "b",
+    "line": 3
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "phyctos-cunliffe-lex",
+     "element": "gloss",
+     "nth": 1,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "means or opportunity of fleeing or escape",
+     "tail": " (cf. "
+    },
+    "correction": {
+     "attributes": {},
+     "text": "means or opportunity of fleeing or escape",
+     "tail": "(cf. "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2192",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "aithon-cunliffe-lex",
+    "element": "bibl",
+    "nth": 4,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:9:265"
+    },
+    "text": "Il. 9.265",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:9:265\"><title>Il.</title> 9.265</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:9:265"
+    },
+    "text": "265",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:9:265\">265</bibl>"
+   },
+   "summary": "The print gives the line alone, \"265\", after a reference to the same book; the encoding writes it with the book, \"Il. 9.265\" (Ι 265). The link is unchanged.",
+   "scan": {
+    "page": 11,
+    "col": "b",
+    "line": 22
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "aithon-cunliffe-lex",
+     "element": "bibl",
+     "nth": 4,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:9:265"
+     },
+     "text": "265",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:9:265\">265</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:9:265"
+     },
+     "text": "Il. 9.265",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:9:265\"><title>Il.</title> 9.265</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2193",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "antios-cunliffe-lex",
+    "element": "bibl",
+    "nth": 64,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:20:333"
+    },
+    "text": "Il. 20.333",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:20:333\"><title>Il.</title> 20.333</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:20:333"
+    },
+    "text": "333",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:20:333\">333</bibl>"
+   },
+   "summary": "The print gives the line alone, \"333\", after a reference to the same book; the encoding writes it with the book, \"Il. 20.333\" (Υ 333). The link is unchanged.",
+   "scan": {
+    "page": 40,
+    "col": "b",
+    "line": 15
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "antios-cunliffe-lex",
+     "element": "bibl",
+     "nth": 64,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:20:333"
+     },
+     "text": "333",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:20:333\">333</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:20:333"
+     },
+     "text": "Il. 20.333",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:20:333\"><title>Il.</title> 20.333</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2194",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "aristeros-cunliffe-lex",
+    "element": "bibl",
+    "nth": 14,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:12:219"
+    },
+    "text": "Il. 12.219",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:12:219\"><title>Il.</title> 12.219</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:12:219"
+    },
+    "text": "219",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:12:219\">219</bibl>"
+   },
+   "summary": "The print gives the line alone, \"219\", after a reference to the same book; the encoding writes it with the book, \"Il. 12.219\" (Μ 219). The link is unchanged.",
+   "scan": {
+    "page": 54,
+    "col": "b",
+    "line": 42
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "aristeros-cunliffe-lex",
+     "element": "bibl",
+     "nth": 14,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:12:219"
+     },
+     "text": "219",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:12:219\">219</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:12:219"
+     },
+     "text": "Il. 12.219",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:12:219\"><title>Il.</title> 12.219</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2195",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "aphiemi-cunliffe-lex",
+    "element": "bibl",
+    "nth": 42,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:1:379"
+    },
+    "text": "Il. 1.379",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:379\"><title>Il.</title> 1.379</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:1:379"
+    },
+    "text": "379",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:379\">379</bibl>"
+   },
+   "summary": "The print gives the line alone, \"379\", after a reference to the same book; the encoding writes it with the book, \"Il. 1.379\" (Α 379). The link is unchanged.",
+   "scan": {
+    "page": 64,
+    "col": "a",
+    "line": 42
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "aphiemi-cunliffe-lex",
+     "element": "bibl",
+     "nth": 42,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:1:379"
+     },
+     "text": "379",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:379\">379</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:1:379"
+     },
+     "text": "Il. 1.379",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:379\"><title>Il.</title> 1.379</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2196",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "dainymi-cunliffe-lex",
+    "element": "bibl",
+    "nth": 61,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,002:10:468"
+    },
+    "text": "Od. 10.468",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:10:468\"><title>Od.</title> 10.468</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,002:10:468"
+    },
+    "text": "468",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:10:468\">468</bibl>"
+   },
+   "summary": "The print gives the line alone, \"468\", after a reference to the same book; the encoding writes it with the book, \"Od. 10.468\" (κ 468). The link is unchanged.",
+   "scan": {
+    "page": 82,
+    "col": "b",
+    "line": 20
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "dainymi-cunliffe-lex",
+     "element": "bibl",
+     "nth": 61,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,002:10:468"
+     },
+     "text": "468",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:10:468\">468</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,002:10:468"
+     },
+     "text": "Od. 10.468",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:10:468\"><title>Od.</title> 10.468</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2197",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "dainymi-cunliffe-lex",
+    "element": "bibl",
+    "nth": 62,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,002:10:477"
+    },
+    "text": "Od. 10.477",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:10:477\"><title>Od.</title> 10.477</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,002:10:477"
+    },
+    "text": "477",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:10:477\">477</bibl>"
+   },
+   "summary": "The print gives the line alone, \"477\", after a reference to the same book; the encoding writes it with the book, \"Od. 10.477\" (κ 477). The link is unchanged.",
+   "scan": {
+    "page": 82,
+    "col": "b",
+    "line": 20
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "dainymi-cunliffe-lex",
+     "element": "bibl",
+     "nth": 62,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,002:10:477"
+     },
+     "text": "477",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:10:477\">477</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,002:10:477"
+     },
+     "text": "Od. 10.477",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:10:477\"><title>Od.</title> 10.477</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2198",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "dercomai-cunliffe-lex",
+    "element": "bibl",
+    "nth": 12,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,002:5:158"
+    },
+    "text": "Od. 5.158",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:5:158\"><title>Od.</title> 5.158</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,002:5:158"
+    },
+    "text": "158",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:5:158\">158</bibl>"
+   },
+   "summary": "The print gives the line alone, \"158\", after a reference to the same book; the encoding writes it with the book, \"Od. 5.158\" (ε 158). The link is unchanged.",
+   "scan": {
+    "page": 88,
+    "col": "a",
+    "line": 33
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "dercomai-cunliffe-lex",
+     "element": "bibl",
+     "nth": 12,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,002:5:158"
+     },
+     "text": "158",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:5:158\">158</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,002:5:158"
+     },
+     "text": "Od. 5.158",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:5:158\"><title>Od.</title> 5.158</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2199",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "hecebolos-cunliffe-lex",
+    "element": "bibl",
+    "nth": 1,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:1:373"
+    },
+    "text": "Il. 1.373",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:373\"><title>Il.</title> 1.373</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:1:373"
+    },
+    "text": "373",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:373\">373</bibl>"
+   },
+   "summary": "The print gives the line alone, \"373\", after a reference to the same book; the encoding writes it with the book, \"Il. 1.373\" (Α 373). The link is unchanged.",
+   "scan": {
+    "page": 119,
+    "col": "b",
+    "line": 27
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "hecebolos-cunliffe-lex",
+     "element": "bibl",
+     "nth": 1,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:1:373"
+     },
+     "text": "373",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:373\">373</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:1:373"
+     },
+     "text": "Il. 1.373",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:373\"><title>Il.</title> 1.373</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2200",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "hecebolos-cunliffe-lex",
+    "element": "bibl",
+    "nth": 3,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:1:96"
+    },
+    "text": "Il. 1.96",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:96\"><title>Il.</title> 1.96</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:1:96"
+    },
+    "text": "96",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:96\">96</bibl>"
+   },
+   "summary": "The print gives the line alone, \"96\", after a reference to the same book; the encoding writes it with the book, \"Il. 1.96\" (Α 96). The link is unchanged.",
+   "scan": {
+    "page": 119,
+    "col": "b",
+    "line": 27
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "hecebolos-cunliffe-lex",
+     "element": "bibl",
+     "nth": 3,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:1:96"
+     },
+     "text": "96",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:96\">96</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:1:96"
+     },
+     "text": "Il. 1.96",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:96\"><title>Il.</title> 1.96</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2201",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "hecebolos-cunliffe-lex",
+    "element": "bibl",
+    "nth": 4,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:1:110"
+    },
+    "text": "Il. 1.110",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:110\"><title>Il.</title> 1.110</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:1:110"
+    },
+    "text": "110",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:110\">110</bibl>"
+   },
+   "summary": "The print gives the line alone, \"110\", after a reference to the same book; the encoding writes it with the book, \"Il. 1.110\" (Α 110). The link is unchanged.",
+   "scan": {
+    "page": 119,
+    "col": "b",
+    "line": 27
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "hecebolos-cunliffe-lex",
+     "element": "bibl",
+     "nth": 4,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:1:110"
+     },
+     "text": "110",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:110\">110</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:1:110"
+     },
+     "text": "Il. 1.110",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:110\"><title>Il.</title> 1.110</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2202",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "hecebolos-cunliffe-lex",
+    "element": "bibl",
+    "nth": 5,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:1:438"
+    },
+    "text": "Il. 1.438",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:438\"><title>Il.</title> 1.438</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:1:438"
+    },
+    "text": "438",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:438\">438</bibl>"
+   },
+   "summary": "The print gives the line alone, \"438\", after a reference to the same book; the encoding writes it with the book, \"Il. 1.438\" (Α 438). The link is unchanged.",
+   "scan": {
+    "page": 119,
+    "col": "b",
+    "line": 27
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "hecebolos-cunliffe-lex",
+     "element": "bibl",
+     "nth": 5,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:1:438"
+     },
+     "text": "438",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:438\">438</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:1:438"
+     },
+     "text": "Il. 1.438",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:1:438\"><title>Il.</title> 1.438</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2203",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "epiproiemi-cunliffe-lex",
+    "element": "bibl",
+    "nth": 9,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:18:439"
+    },
+    "text": "Il. 18.439",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:18:439\"><title>Il.</title> 18.439</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:18:439"
+    },
+    "text": "439",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:18:439\">439</bibl>"
+   },
+   "summary": "The print gives the line alone, \"439\", after a reference to the same book; the encoding writes it with the book, \"Il. 18.439\" (Σ 439). The link is unchanged.",
+   "scan": {
+    "page": 149,
+    "col": "a",
+    "line": 11
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "epiproiemi-cunliffe-lex",
+     "element": "bibl",
+     "nth": 9,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:18:439"
+     },
+     "text": "439",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:18:439\">439</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:18:439"
+     },
+     "text": "Il. 18.439",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:18:439\"><title>Il.</title> 18.439</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2204",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "hedomai-cunliffe-lex",
+    "element": "bibl",
+    "nth": 10,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,002:9:566"
+    },
+    "text": "Od. 9.566",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:9:566\"><title>Od.</title> 9.566</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,002:9:566"
+    },
+    "text": "566",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:9:566\">566</bibl>"
+   },
+   "summary": "The print gives the line alone, \"566\", after a reference to the same book; the encoding writes it with the book, \"Od. 9.566\" (ι 566). The link is unchanged.",
+   "scan": {
+    "page": 178,
+    "col": "b",
+    "line": 30
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "hedomai-cunliffe-lex",
+     "element": "bibl",
+     "nth": 10,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,002:9:566"
+     },
+     "text": "566",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:9:566\">566</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,002:9:566"
+     },
+     "text": "Od. 9.566",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:9:566\"><title>Od.</title> 9.566</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2205",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "certomiai-cunliffe-lex",
+    "element": "bibl",
+    "nth": 1,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:20:433"
+    },
+    "text": "Il. 20.433",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:20:433\"><title>Il.</title> 20.433</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:20:433"
+    },
+    "text": "433",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:20:433\">433</bibl>"
+   },
+   "summary": "The print gives the line alone, \"433\", after a reference to the same book; the encoding writes it with the book, \"Il. 20.433\" (Υ 433). The link is unchanged.",
+   "scan": {
+    "page": 225,
+    "col": "a",
+    "line": 31
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "certomiai-cunliffe-lex",
+     "element": "bibl",
+     "nth": 1,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:20:433"
+     },
+     "text": "433",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:20:433\">433</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:20:433"
+     },
+     "text": "Il. 20.433",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:20:433\"><title>Il.</title> 20.433</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2206",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "poneomai-cunliffe-lex",
+    "element": "bibl",
+    "nth": 29,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:5:627"
+    },
+    "text": "Il. 5.627",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:5:627\"><title>Il.</title> 5.627</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:5:627"
+    },
+    "text": "627",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:5:627\">627</bibl>"
+   },
+   "summary": "The print gives the line alone, \"627\", after a reference to the same book; the encoding writes it with the book, \"Il. 5.627\" (Ε 627). The link is unchanged.",
+   "scan": {
+    "page": 338,
+    "col": "b",
+    "line": 33
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "poneomai-cunliffe-lex",
+     "element": "bibl",
+     "nth": 29,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:5:627"
+     },
+     "text": "627",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:5:627\">627</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:5:627"
+     },
+     "text": "Il. 5.627",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:5:627\"><title>Il.</title> 5.627</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2207",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "teucho-cunliffe-lex",
+    "element": "bibl",
+    "nth": 277,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:5:901"
+    },
+    "text": "Il. 5.901",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:5:901\"><title>Il.</title> 5.901</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:5:901"
+    },
+    "text": "901",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:5:901\">901</bibl>"
+   },
+   "summary": "The print gives the line alone, \"901\", after a reference to the same book; the encoding writes it with the book, \"Il. 5.901\" (Ε 901). The link is unchanged.",
+   "scan": {
+    "page": 380,
+    "col": "b",
+    "line": 43
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "teucho-cunliffe-lex",
+     "element": "bibl",
+     "nth": 277,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:5:901"
+     },
+     "text": "901",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:5:901\">901</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:5:901"
+     },
+     "text": "Il. 5.901",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:5:901\"><title>Il.</title> 5.901</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2208",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "phren-cunliffe-lex",
+    "element": "bibl",
+    "nth": 156,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,002:18:391"
+    },
+    "text": "Od. 18.391",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:18:391\"><title>Od.</title> 18.391</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,002:18:391"
+    },
+    "text": "391",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:18:391\">391</bibl>"
+   },
+   "summary": "The print gives the line alone, \"391\", after a reference to the same book; the encoding writes it with the book, \"Od. 18.391\" (σ 391). The link is unchanged.",
+   "scan": {
+    "page": 412,
+    "col": "a",
+    "line": 40
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "phren-cunliffe-lex",
+     "element": "bibl",
+     "nth": 156,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,002:18:391"
+     },
+     "text": "391",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:18:391\">391</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,002:18:391"
+     },
+     "text": "Od. 18.391",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,002:18:391\"><title>Od.</title> 18.391</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2209",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "autos-cunliffe-lex",
+    "element": "bibl",
+    "nth": 52,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:6:490"
+    },
+    "text": "Il. 6.490",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:6:490\"><title>Il.</title> 6.490</bibl>"
+   },
+   "correction": {
+    "attributes": {
+     "n": "Perseus:abo:tlg,0012,001:6:490"
+    },
+    "text": "490",
+    "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:6:490\">490</bibl>"
+   },
+   "summary": "The print gives the line alone, \"490\", after a reference to the same book; the encoding writes it with the book, \"Il. 6.490\" (Ζ 490). The link is unchanged.",
+   "scan": {
+    "page": 62,
+    "col": "b",
+    "line": 9
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "autos-cunliffe-lex",
+     "element": "bibl",
+     "nth": 52,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:6:490"
+     },
+     "text": "490",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:6:490\">490</bibl>"
+    },
+    "correction": {
+     "attributes": {
+      "n": "Perseus:abo:tlg,0012,001:6:490"
+     },
+     "text": "Il. 6.490",
+     "xml": "<bibl xmlns=\"http://www.tei-c.org/ns/1.0\" n=\"Perseus:abo:tlg,0012,001:6:490\"><title>Il.</title> 6.490</bibl>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2210",
+   "kind": "remove-element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "xyn-cunliffe-lex",
+    "element": "foreign",
+    "nth": 1
+   },
+   "original": {
+    "xml": "<foreign xmlns=\"http://www.tei-c.org/ns/1.0\" xml:lang=\"greek\">ξυμ-</foreign>",
+    "tail": ", "
+   },
+   "correction": null,
+   "summary": "\"ξυμ-\" taken out of ξύν: it belongs to the run-in entry ξυμ-, ξυν-, which the last record of this group puts in after ξύν.",
+   "scan": {
+    "page": 284,
+    "col": "a",
+    "line": 35
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "remove-element",
+    "target": {
+     "entry": "xyn-cunliffe-lex",
+     "element": "foreign",
+     "nth": 1
+    },
+    "original": null,
+    "correction": {
+     "xml": "<foreign xmlns=\"http://www.tei-c.org/ns/1.0\" xml:lang=\"greek\">ξυμ-</foreign>",
+     "tail": ", "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2211",
+   "kind": "remove-element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "xyn-cunliffe-lex",
+    "element": "ref",
+    "nth": 1
+   },
+   "original": {
+    "xml": "<ref xmlns=\"http://www.tei-c.org/ns/1.0\" xml:lang=\"greek\" target=\"xyn-cunliffe-prefix\">ξυν-</ref>",
+    "tail": ". See "
+   },
+   "correction": null,
+   "summary": "\"ξυν-\" taken out of ξύν: it belongs to the run-in entry ξυμ-, ξυν-, which the last record of this group puts in after ξύν.",
+   "scan": {
+    "page": 284,
+    "col": "a",
+    "line": 35
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "remove-element",
+    "target": {
+     "entry": "xyn-cunliffe-lex",
+     "element": "ref",
+     "nth": 1
+    },
+    "original": null,
+    "correction": {
+     "xml": "<ref xmlns=\"http://www.tei-c.org/ns/1.0\" xml:lang=\"greek\" target=\"xyn-cunliffe-prefix\">ξυν-</ref>",
+     "tail": ". See "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2212",
+   "kind": "remove-element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "xyn-cunliffe-lex",
+    "element": "foreign",
+    "nth": 1
+   },
+   "original": {
+    "xml": "<foreign xmlns=\"http://www.tei-c.org/ns/1.0\" xml:lang=\"greek\">συμ-</foreign>",
+    "tail": ", "
+   },
+   "correction": null,
+   "summary": "\"συμ-\" taken out of ξύν: it belongs to the run-in entry ξυμ-, ξυν-, which the last record of this group puts in after ξύν.",
+   "scan": {
+    "page": 284,
+    "col": "a",
+    "line": 35
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "remove-element",
+    "target": {
+     "entry": "xyn-cunliffe-lex",
+     "element": "foreign",
+     "nth": 1
+    },
+    "original": null,
+    "correction": {
+     "xml": "<foreign xmlns=\"http://www.tei-c.org/ns/1.0\" xml:lang=\"greek\">συμ-</foreign>",
+     "tail": ", "
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2213",
+   "kind": "remove-element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "xyn-cunliffe-lex",
+    "element": "ref",
+    "nth": 1
+   },
+   "original": {
+    "xml": "<ref xmlns=\"http://www.tei-c.org/ns/1.0\" xml:lang=\"greek\" target=\"syn-cunliffe-prefix\">συν-</ref>",
+    "tail": "."
+   },
+   "correction": null,
+   "summary": "\"συν-\" taken out of ξύν: it belongs to the run-in entry ξυμ-, ξυν-, which the last record of this group puts in after ξύν.",
+   "scan": {
+    "page": 284,
+    "col": "a",
+    "line": 35
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "remove-element",
+    "target": {
+     "entry": "xyn-cunliffe-lex",
+     "element": "ref",
+     "nth": 1
+    },
+    "original": null,
+    "correction": {
+     "xml": "<ref xmlns=\"http://www.tei-c.org/ns/1.0\" xml:lang=\"greek\" target=\"syn-cunliffe-prefix\">συν-</ref>",
+     "tail": "."
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2214",
+   "kind": "insert-entry",
+   "error_in": "encoding",
+   "target": {
+    "div": "xym-cunliffe-lex"
+   },
+   "original": null,
+   "correction": {
+    "index": 6768,
+    "xml": "<div xmlns=\"http://www.tei-c.org/ns/1.0\" xml:id=\"xym-cunliffe-lex\" type=\"textpart\" n=\"ξυμ-\">\n        <head><foreign xml:lang=\"greek\">ξυμ-</foreign>, <foreign xml:lang=\"greek\">ξυν-</foreign></head>\n        <p>See <foreign xml:lang=\"greek\">συμ-</foreign>, <ref xml:lang=\"greek\" target=\"syn-cunliffe-prefix\">συν-</ref>.</p>\n      </div>",
+    "tail": "\n\n      "
+   },
+   "summary": "The entry ξυμ-, ξυν-, run in in bold on ξύν's line, as printed: \"ξυμ-, ξυν-. See συμ-, συν-.\"; the encoding has it inside ξύν's entry.",
+   "scan": {
+    "page": 284,
+    "col": "a",
+    "line": 35
+   },
+   "date": "2026-11-24",
+   "inverse": {
+    "kind": "insert-entry",
+    "target": {
+     "div": "xym-cunliffe-lex"
+    },
+    "original": {
+     "index": 6768,
+     "xml": "<div xmlns=\"http://www.tei-c.org/ns/1.0\" xml:id=\"xym-cunliffe-lex\" type=\"textpart\" n=\"ξυμ-\">\n        <head><foreign xml:lang=\"greek\">ξυμ-</foreign>, <foreign xml:lang=\"greek\">ξυν-</foreign></head>\n        <p>See <foreign xml:lang=\"greek\">συμ-</foreign>, <ref xml:lang=\"greek\" target=\"syn-cunliffe-prefix\">συν-</ref>.</p>\n      </div>",
+     "tail": "\n\n      "
+    },
+    "correction": null
+   }
   }
  ]
 }
