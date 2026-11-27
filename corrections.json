@@ -94020,6 +94020,190 @@
     },
     "correction": null
    }
+  },
+  {
+   "id": "cunliffe-1924-c2215",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "ectos-cunliffe-lex",
+    "element": "head",
+    "nth": 0,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "ἔκτος"
+   },
+   "correction": {
+    "attributes": {},
+    "text": "ἕκτος"
+   },
+   "summary": "The print's headword has the rough breathing, ἕκτος, 'the sixth' (from ἕξ); the encoding has the smooth one.",
+   "scan": {
+    "page": 121,
+    "col": "b"
+   },
+   "date": "2026-11-26",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "ectos-cunliffe-lex",
+     "element": "head",
+     "nth": 0,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "ἕκτος"
+    },
+    "correction": {
+     "attributes": {},
+     "text": "ἔκτος"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2216",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "iliothen-cunliffe-lex",
+    "element": "p",
+    "nth": 0,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "[(ϝιλιόθεν) + -θεν 1.]",
+    "xml": "<p xmlns=\"http://www.tei-c.org/ns/1.0\">[(<foreign xml:lang=\"greek\">ϝιλιόθεν</foreign>) + <ref xml:lang=\"greek\" target=\"then-cunliffe-suffix-1\"><foreign xml:lang=\"greek\">-θεν</foreign> 1</ref>.]</p>"
+   },
+   "correction": {
+    "attributes": {},
+    "text": "(ῑ) (ϝιλιόθεν) [-θεν 1.]",
+    "xml": "<p xmlns=\"http://www.tei-c.org/ns/1.0\">(ῑ) (<foreign xml:lang=\"greek\">ϝιλιόθεν</foreign>) [<ref xml:lang=\"greek\" target=\"then-cunliffe-suffix-1\"><foreign xml:lang=\"greek\">-θεν</foreign> 1</ref>.]</p>"
+   },
+   "summary": "The print gives the quantity of the first ι, \"(ῑ)\", after the headword, then the digamma form in round brackets before the etymology, \"(ϝιλιόθεν) [-θεν (1)].\"; the encoding has no quantity note and writes \"[(ϝιλιόθεν) + -θεν (1)].\"",
+   "scan": {
+    "page": 199,
+    "col": "b"
+   },
+   "date": "2026-11-26",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "iliothen-cunliffe-lex",
+     "element": "p",
+     "nth": 0,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "(ῑ) (ϝιλιόθεν) [-θεν 1.]",
+     "xml": "<p xmlns=\"http://www.tei-c.org/ns/1.0\">(ῑ) (<foreign xml:lang=\"greek\">ϝιλιόθεν</foreign>) [<ref xml:lang=\"greek\" target=\"then-cunliffe-suffix-1\"><foreign xml:lang=\"greek\">-θεν</foreign> 1</ref>.]</p>"
+    },
+    "correction": {
+     "attributes": {},
+     "text": "[(ϝιλιόθεν) + -θεν 1.]",
+     "xml": "<p xmlns=\"http://www.tei-c.org/ns/1.0\">[(<foreign xml:lang=\"greek\">ϝιλιόθεν</foreign>) + <ref xml:lang=\"greek\" target=\"then-cunliffe-suffix-1\"><foreign xml:lang=\"greek\">-θεν</foreign> 1</ref>.]</p>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2217",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "iliothi-cunliffe-lex",
+    "element": "p",
+    "nth": 0,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {},
+    "text": "[(ϝιλιόθι) + -θι.]",
+    "xml": "<p xmlns=\"http://www.tei-c.org/ns/1.0\">[(<foreign xml:lang=\"greek\">ϝιλιόθι</foreign>) + <ref xml:lang=\"greek\" target=\"thi-cunliffe-suffix\">-θι</ref>.]</p>"
+   },
+   "correction": {
+    "attributes": {},
+    "text": "(ῑ) (ϝιλιόθι) [-θι.]",
+    "xml": "<p xmlns=\"http://www.tei-c.org/ns/1.0\">(ῑ) (<foreign xml:lang=\"greek\">ϝιλιόθι</foreign>) [<ref xml:lang=\"greek\" target=\"thi-cunliffe-suffix\">-θι</ref>.]</p>"
+   },
+   "summary": "The print gives the quantity of the first ι, \"(ῑ)\", after the headword, then the digamma form in round brackets before the etymology, \"(ϝιλιόθι) [-θι].\"; the encoding has no quantity note and writes \"[(ϝιλιόθι) + -θι].\"",
+   "scan": {
+    "page": 199,
+    "col": "b"
+   },
+   "date": "2026-11-26",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "iliothi-cunliffe-lex",
+     "element": "p",
+     "nth": 0,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {},
+     "text": "(ῑ) (ϝιλιόθι) [-θι.]",
+     "xml": "<p xmlns=\"http://www.tei-c.org/ns/1.0\">(ῑ) (<foreign xml:lang=\"greek\">ϝιλιόθι</foreign>) [<ref xml:lang=\"greek\" target=\"thi-cunliffe-suffix\">-θι</ref>.]</p>"
+    },
+    "correction": {
+     "attributes": {},
+     "text": "[(ϝιλιόθι) + -θι.]",
+     "xml": "<p xmlns=\"http://www.tei-c.org/ns/1.0\">[(<foreign xml:lang=\"greek\">ϝιλιόθι</foreign>) + <ref xml:lang=\"greek\" target=\"thi-cunliffe-suffix\">-θι</ref>.]</p>"
+    }
+   }
+  },
+  {
+   "id": "cunliffe-1924-c2218",
+   "kind": "element",
+   "error_in": "encoding",
+   "target": {
+    "entry": "allos-cunliffe-lex",
+    "element": "quote",
+    "nth": 10,
+    "occurrences": 1
+   },
+   "original": {
+    "attributes": {
+     "{http://www.w3.org/XML/1998/namespace}lang": "greek"
+    },
+    "text": "ἴἡ ἄλλη σῖτον ἔφερεν"
+   },
+   "correction": {
+    "attributes": {
+     "{http://www.w3.org/XML/1998/namespace}lang": "greek"
+    },
+    "text": "ἡ ἄλλη σῖτον ἔφερεν"
+   },
+   "summary": "The print has a damaged or misplaced sort, no letter, before ἡ (\"ἡ ἄλλη σῖτον ἔφερεν ν 69\", Od. 13.69); the encoding reads it as ἴ. The sort is not copied.",
+   "scan": {
+    "page": 22,
+    "col": "a"
+   },
+   "date": "2026-11-26",
+   "inverse": {
+    "kind": "element",
+    "target": {
+     "entry": "allos-cunliffe-lex",
+     "element": "quote",
+     "nth": 10,
+     "occurrences": 1
+    },
+    "original": {
+     "attributes": {
+      "{http://www.w3.org/XML/1998/namespace}lang": "greek"
+     },
+     "text": "ἡ ἄλλη σῖτον ἔφερεν"
+    },
+    "correction": {
+     "attributes": {
+      "{http://www.w3.org/XML/1998/namespace}lang": "greek"
+     },
+     "text": "ἴἡ ἄλλη σῖτον ἔφερεν"
+    }
+   }
   }
  ]
 }

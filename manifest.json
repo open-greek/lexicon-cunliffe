@@ -78,8 +78,8 @@
  },
  "citation_target": {
   "corpus": "https://github.com/open-greek/open-greek-corpus",
-  "release": "corpus-2026-11-26",
-  "commit": "ea39ee6024e1a68b4dfd285f06c5863523fcb686",
+  "release": "corpus-2026-11-28",
+  "commit": "85c2f78f910579be21256932ed64c8ac247c59bb",
   "files": {
    "data/corpus/homerus-epic.ilias.jsonl": "74ee06791b042f615c9fd7e2969345fa86b772aabd5217ee9ffcdec8f151ca14",
    "data/corpus/homerus-epic.odyssea.jsonl": "b6e4c55889716f335deecc03e9b103e36878da68b34c73131d89f55bd44a25db"
@@ -109,8 +109,8 @@
     "last_seq": 500,
     "first_key": "ἆ",
     "last_key": "ἁλμυρός",
-    "bytes": 1499141,
-    "sha256": "5ce709d1805d98d06d42ac68d005d7821f414b233732c8f777bc0aed32d12b6f"
+    "bytes": 1499503,
+    "sha256": "d4d0a8221037d1c6162c876dbe679137a8ff2de7f1bf9be46b7b823148a73395"
    },
    {
     "file": "entries/0002.jsonl",
@@ -159,8 +159,8 @@
     "last_seq": 3000,
     "first_key": "δῷσι",
     "last_key": "ἐλατήρ",
-    "bytes": 1403080,
-    "sha256": "4b0f5967231711b170b19f2815e288f975f836306fb22cb56db54d4dc493488d"
+    "bytes": 1403377,
+    "sha256": "5acc03e08ae7ea3f4ac694d4bf542f4d6bcbdce10cbe0eadde6d8fe8b51971ea"
    },
    {
     "file": "entries/0007.jsonl",
@@ -199,8 +199,8 @@
     "last_seq": 5000,
     "first_key": "ἠέλιος",
     "last_key": "ἱμερτός",
-    "bytes": 1436541,
-    "sha256": "97e0405ffaffb8a568ec5040102345292cfcd991554a24558422fd66a00bc9f5"
+    "bytes": 1437431,
+    "sha256": "3f9ad311d3b26448428a68507dbdc17dc187564fa7d0ed3d5e7195c391676695"
    },
    {
     "file": "entries/0011.jsonl",
@@ -305,18 +305,18 @@
   ],
   "keys": {
    "file": "keys.json",
-   "bytes": 448696,
-   "sha256": "7a120fa250034c50fb43e2a12e81e35d1f7b5f46cc837e08d0b4a78244697b7a"
+   "bytes": 448734,
+   "sha256": "1820a7a37564c903d21160aaaa214b06359e948c3739029a7d8a20b7611af851"
   },
   "readme": {
    "file": "README.md",
    "bytes": 10375,
-   "sha256": "9ea307531dae4d758110e7917c910af0b2bafe11cdb09553aa0cc8e86adf16ce"
+   "sha256": "09e705ed94bc367b58a97d5cf41435369798fa4ce91b77cb953fc3863eb813bb"
   },
   "corrections": {
    "file": "corrections.json",
-   "bytes": 2070573,
-   "sha256": "2ce2459fdc0c229f3e84842a5793ee547c867e2733c53479f51d0280a334d178"
+   "bytes": 2076651,
+   "sha256": "bcf4411c80796cc123f9d67af24ae03047541ee7aa9f209a745ffb63e08a7878"
   },
   "pages": {
    "file": "pages.json",
@@ -349,12 +349,12 @@
  },
  "publication": {
   "repository": "https://github.com/open-greek/lexicon-cunliffe",
-  "release": "cunliffe-2026-11-25",
-  "date": "2026-11-25",
+  "release": "cunliffe-2026-11-27",
+  "date": "2026-11-27",
   "license_text": "LICENSE",
-  "build_manifest_sha256": "aa2be371f1100e7b504d37a088afb1162029052e8678e8d06e681a37c724f41c",
+  "build_manifest_sha256": "ce21573ee421b82b76740602dbc0ad5406ac630eb6e3815d6de5c4a420c46322",
   "corrections": {
-   "build_sha256": "09e7969916d203cde711d398d8c777752dcec391eaf4e9323dcf9a8c0523ffec",
+   "build_sha256": "2e348f81dcc076269c671f248c772e2479258b869f5cfc1d6b30d4df49c6f7ed",
    "withheld_fields": [
     "evidence"
    ]
